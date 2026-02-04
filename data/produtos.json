@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "nome": "Camiseta Regata",
+        "descricao": "Camiseta regata masculina",
+        "preco": 38.9,
+        "quantidade": 10,
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLSpOr50Bdbcq000uL0dWVBSYtPvNIUwqwXg&s"
+    },
+
+    {
+        "id": 2,
+        "nome": "Camiseta Esportiva",
+        "descricao": "Camiseta esportiva masculina",
+        "preco": 60.0,
+        "quantidade": 16,
+        "img":""
+    },
+
+    {
+        "id": 3,
+        "nome": "Bolsa Feminina",
+        "descricao": "Bolsa feminina Chanel Bege",
+        "preco": 805.8,
+        "quantidade": 3,
+        "img":"https://www.chanel.com/images/as/q_auto:good,f_auto,fl_lossy,dpr_1.1/w_428/-77887491.jpg"
+    },
+
+    {
+        "id": 4,
+        "nome": "Tênis Esportivo",
+        "descricao": "Tenis para esporte",
+        "preco": 380.5,
+        "quantidade": 10,
+        "img":"https://modaum.cdn.magazord.com.br/img/2023/11/produto/774/01-tenis-esportivo-masculino-olympikus-em-tecido-preto.jpeg?ims=600x600"
+    },
+
+    {
+        "id": 5,
+        "nome": "Blusa Feminina",
+        "descricao": "Blusa feminina rosa",
+        "preco": 40.5,
+        "quantidade": 10,
+        "img":""
+    },
+
+    {
+        "id": 6,
+        "nome": "Saia Longa",
+        "descricao": "Saia estampada rosa",
+        "preco": 130.9,
+        "quantidade": 10,
+        "img":""
+    },
+
+    {
+        "id": 7,
+        "nome": "Cropped Feminino",
+        "descricao": "Cropped de renda preto",
+        "preco": 55.9,
+        "quantidade": 10,
+        "img":"https://down-br.img.susercontent.com/file/br-11134207-81z1k-mgdttrlfjxmoa5"
+    },
+
+    {
+        "id": 8,
+        "nome": "Calça Feminina",
+        "descricao": "Calça feminina lavagem azul",
+        "preco": 230.8,
+        "quantidade": 10,
+        "img":"https://images.tcdn.com.br/img/img_prod/1023579/calca_feminina_reta_media_desenvolvida_em_tecido_de_two_way_30289_1_2e5678d48da98db75afdb5e42b5c6b07.jpg"
+    },
+
+    {
+        "id": 9,
+        "nome": "Short Saia",
+        "descricao": "Saia com shorts lavagem azul",
+        "preco": 100.7,
+        "quantidade": 10,
+        "img":"https://oqvestir.fbitsstatic.net/img/p/short-saia-com-sobreposicao-preto-208369/585613-5.jpg?w=1600&h=2133&v=202501231557"
+    },
+{
+        "id": 10,
+        "nome": "Vestido Curto",
+        "descricao": "Vestido branco de renda",
+        "preco": 200.0,
+        "quantidade": 4,
+        "img":"https://a-static.mlcdn.com.br/%7Bw%7Dx%7Bh%7D/vestido-mini-preto-sem-mangas-com-rendas-e-costas-descobertas-para-mulheres-verao-y2k-estilo-linglsix/aliexpress/206466640/42f3897de213c97a3d34992aebb9a52d.jpeg"
+    }
+    
+
+]
